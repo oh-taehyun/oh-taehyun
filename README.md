@@ -1,9 +1,10 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=slice)
 
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=oh-taehyun&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 ####  :wave: Welcome my github profile !
 <br/>
 <br/>
+
 ####  :clipboard: Once I've Used 
 <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -17,7 +18,8 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <br/>
 <br/>
+
 #### :pencil2: Study log
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@oh-taehyun)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oh-taehyun&color=dark)](https://velog.io/@oh-taehyun)
 </div>
 
